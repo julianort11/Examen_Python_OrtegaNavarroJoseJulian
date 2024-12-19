@@ -1,0 +1,20 @@
+{ 
+    "administracionInfo":[
+    {
+        "nombreAdmin" : "Julian",
+        "codigo" : "1010",
+        "clientes" : 
+          { 
+            "nombre" : "juan",
+            "apellidos" : "rodirguez",
+            "id": "123",
+            "direccion" : "Oriente",
+            "categoria" : {
+                "nuevos clientes": "False",
+                "clientes Regulares": "False",
+                "clientes leales": "False"  
+            }
+        }
+    }
+]
+}
