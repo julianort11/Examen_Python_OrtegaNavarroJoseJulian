@@ -18,6 +18,7 @@ El programa almacena toda la informacion que debe tener sobre un cliente, nombre
 
 
 https://ibb.co/CHFxdRd
+
 https://ibb.co/SnFF2Z5
 
 
