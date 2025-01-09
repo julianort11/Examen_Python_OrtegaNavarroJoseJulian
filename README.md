@@ -17,10 +17,7 @@ La instalacion del programa practico solo tienes que descargar la carpeta y abri
 El programa almacena toda la informacion que debe tener sobre un cliente, nombre, direccion, nro identificacion etc.. El programa tambien nos va a decir el estado del cliente si esta activo o inactivo al igual que nos dice que plan tiene el cliente y su precio. Tambien funciona para que el cliente pueda ver el plan por el que paga y su precio, tambien poner quejas que tenga sobre el servicio que tenga.
 
 
-
-![image-20250109122311152](/home/camper/.config/Typora/typora-user-images/image-20250109122311152.png)
-
-![image-20250109122410975](/home/camper/.config/Typora/typora-user-images/image-20250109122410975.png)
-
+https://ibb.co/CHFxdRd
+https://ibb.co/SnFF2Z5
 
 
